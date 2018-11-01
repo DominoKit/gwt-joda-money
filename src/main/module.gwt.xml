@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+    <inherits name="org.joda.money.Money"/>
+    <inherits name="org.joda.convert.Convert"/>
+    <inherits name="java.text.Text"/>
+    <source path=""/>
+    <super-source path="emu"/>
+</module>
