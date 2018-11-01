@@ -1,7 +1,7 @@
-<a title="Gitter" href="https://gitter.im/DominoKit/gwt-joda-time"><img src="https://badges.gitter.im/Join%20Chat.svg"></a>
-[![Build Status](https://travis-ci.org/DominoKit/gwt-joda-time.svg?branch=master)](https://travis-ci.org/DominoKit/gwt-joda-time)
-[![Maven Central](https://maven-badges.herokuapp.com/maven-central/org.dominokit/gwt-joda-time/badge.svg)](https://maven-badges.herokuapp.com/maven-central/org.dominokit/gwt-joda-time)
-![Sonatype Nexus (Snapshots)](https://img.shields.io/nexus/s/https/oss.sonatype.org/org.dominokit/gwt-joda-time.svg)
+<a title="Gitter" href="https://gitter.im/DominoKit/gwt-joda-money"><img src="https://badges.gitter.im/Join%20Chat.svg"></a>
+[![Build Status](https://travis-ci.org/DominoKit/gwt-joda-money.svg?branch=master)](https://travis-ci.org/DominoKit/gwt-joda-money)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/org.dominokit/gwt-joda-money/badge.svg)](https://maven-badges.herokuapp.com/maven-central/org.dominokit/gwt-joda-money)
+![Sonatype Nexus (Snapshots)](https://img.shields.io/nexus/s/https/oss.sonatype.org/org.dominokit/gwt-joda-money.svg)
 
 
 # GWT JODA Money
